@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+
+# Database files
+*.db
+*.db-*
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.sqlite*
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
